@@ -6,7 +6,7 @@ export default defineConfig({
   output: {
     dir: 'dist',
     format: 'es',
-    name: 'sherpa-useDebounce',
+    name: 'sherpa-use-debounce',
   },
 
   external: ['react', 'react-dom'],
